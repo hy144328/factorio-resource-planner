@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "factorio-resource-planner"
+version = "0.1.0"
+description = "Factorio resource planner."
+authors = ["Hans Yu <hans.yu@outlook.de>"]
+license = "GPL-2.0-or-later"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pydantic = "^2.8.2"
+
+[tool.poetry.group.dev.dependencies]
+poetry = "^1.8.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
