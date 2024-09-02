@@ -1,0 +1,25 @@
+{
+    "craft_time": 0.5,
+    "input": [
+        {
+            "id": "iron-plate",
+            "quantity": 1
+        },
+        {
+            "id": "iron-gear-wheel",
+            "quantity": 1
+        }
+    ],
+    "output": [
+        {
+            "id": "yellow-belt",
+            "quantity": 2
+        }
+    ],
+    "produced_by": [
+        "assembling_machine_1",
+        "assembling_machine_2",
+        "assembling_machine_3",
+        "manual"
+    ]
+}
