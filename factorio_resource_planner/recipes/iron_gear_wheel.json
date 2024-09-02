@@ -1,5 +1,6 @@
 {
     "craft_time": 0.5,
+    "id": "iron-gear-wheel",
     "input": [
         {
             "id": "iron-plate",

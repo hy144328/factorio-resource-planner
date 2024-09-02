@@ -1,5 +1,6 @@
 {
     "craft_time": 0.5,
+    "id": "yellow-belt",
     "input": [
         {
             "id": "iron-plate",
